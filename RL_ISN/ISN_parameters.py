@@ -2,7 +2,7 @@
 class setting:
 
     def __init__(self):
-        self.our_code_path = "https://gitee.com/leiguo01/rl-net-hr"
+        self.our_code_path = "https://github.com/JinyuZ1996/RL-ISN"
 
         '''
             Block_1: parameters for the Recommender Pretrain Task

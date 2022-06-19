@@ -44,3 +44,4 @@
 8. to run the training method see: RL_ISN/ISN_main.py and the training log printer was defined in: RL_ISN/ISN_printer.py
     * The directory named Checkpoint is used to save the trained recommenders ,agents and joint-training models.
     * Note that, for different dataset (i.e., HVIDEO and HAMAZON), we set two different settings for the haper-parameters as 'ISN_parameters_Hamazon.py' and 'ISN_parameters_Hvideo.py'
+    * Note that, the 'userlist.txt' in both dataset are only provided for the baselines which needs it (i.e., the 'DA-GCN').

@@ -18,5 +18,6 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 /.idea
+/data
 /_pycache_
 /RL_ISN/.idea/
