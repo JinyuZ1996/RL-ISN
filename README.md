@@ -9,7 +9,7 @@
 </p> 
 
 ## **Overall description** 
-- Here presents the code of RL-ISN and 12 baselines, the datasets of RL-ISN are located in the 'datasets' branch. You should download them before training the RL-ISN. Note that, this version of code is attached to our paper: " **Reinforcement Learning-enhanced Shared-account Cross-domain Sequential Recommendation" (TKDE 2022)** ". If you want to use our codes and datasets in your research, please cite our paper. Note that, our paper is still in the state of 'Early Access', if you wang to see the preview version (on Arxiv), please visit: [http://arxiv.org/abs/2206.08088](http://arxiv.org/abs/2206.08088)
+- Here presents the code of RL-ISN and 12 baselines, the datasets of RL-ISN are located in the 'datasets' branch. You should download them before training the RL-ISN. Note that, this version of code is attached to our paper: " **Reinforcement Learning-enhanced Shared-account Cross-domain Sequential Recommendation" (TKDE 2022)** ". If you want to use our codes and datasets in your research, please cite our paper. Note that, our paper is still in the state of 'Early Access', if you wang to see the preview version (on Arxiv), please visit: [http://arxiv.org/abs/2206.08088](http://arxiv.org/abs/2206.08088). As the dataset is too big for github, we upload two dataset (i.e., Hvideo and Hamazon) on Bitbuckit: [https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/](https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/ "https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/")
 ## **Code description** 
 ### **Vesion of implements and tools**
 1. python 3.6
