@@ -19,6 +19,4 @@ bin-release/
 
 /.idea
 /_pycache_
-/data
-/Checkpoint
 /RL_ISN/.idea/
