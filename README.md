@@ -9,7 +9,7 @@
 </p> 
 
 ## **Overall description** 
-- Here presents the code of RL-ISN. As the dataset is too big for GitHub, we upload two datasets (i.e., Hvideo and Hamazon) on Bitbucket: [https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/](https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/ "https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/"). You should download them before training the RL-ISN. Note that, this version of the code is attached to our paper: " **Reinforcement Learning-enhanced Shared-account Cross-domain Sequential Recommendation" (TKDE 2022)** ". If you want to use our codes and datasets in your research, please cite our paper. Note that, our paper is still in the state of 'Early Access', if you want to see the preview version (on IEEE Xplore), please visit: [https://ieeexplore.ieee.org/document/9802739](https://ieeexplore.ieee.org/document/9802739). 
+- Here presents the code of RL-ISN. As the dataset is too big for GitHub, we upload two datasets (i.e., Hvideo and Hamazon) on Bitbucket: [https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/](https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/ "https://bitbucket.org/jinyuz1996/rl-isn-data/src/main/"). You should download them before training the RL-ISN. The code is attached to our paper: " **Reinforcement Learning-enhanced Shared-account Cross-domain Sequential Recommendation" (TKDE 2022)** ". If you want to use our codes and datasets in your research, please cite our paper. Note that, our paper is still in the state of 'Early Access', if you want to see the preview version (on IEEE Xplore), please visit: [https://ieeexplore.ieee.org/document/9802739](https://ieeexplore.ieee.org/document/9802739). 
 ## **Code description** 
 ### **Vesion of implements and tools**
 1. python 3.6
